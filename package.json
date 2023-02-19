@@ -1,0 +1,14 @@
+{
+  "name": "modulec7_homework",
+  "version": "1.0.0",
+  "description": "example-testing function reverStrings.js",
+  "main": "revertString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "rulaf",
+  "license": "ISC"
+}
